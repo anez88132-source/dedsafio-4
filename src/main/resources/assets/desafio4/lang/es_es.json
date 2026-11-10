@@ -1,0 +1,19 @@
+{
+  "key.desafio4.open": "Abrir Desafío 4",
+  "key.categories.desafio4": "Desafío 4",
+  "screen.desafio4.title": "Desafío 4",
+  "tab.desafio4.quests": "Misiones",
+  "tab.desafio4.objects": "Objetos",
+  "tab.desafio4.dimensions": "Dimensiones",
+  "type.desafio4.collect": "Recoger",
+  "type.desafio4.kill": "Matar",
+  "type.desafio4.mine": "Minar",
+  "type.desafio4.craft": "Fabricar",
+  "type.desafio4.dimension": "Visitar",
+  "gui.desafio4.reward": "Recompensa:",
+  "gui.desafio4.visited": "Visitada",
+  "gui.desafio4.not_visited": "Sin visitar",
+  "gui.desafio4.empty": "No hay nada configurado todavía.",
+  "gui.desafio4.needed_for": "Necesario para: %s",
+  "gui.desafio4.reward_of": "Recompensa de: %s"
+}

@@ -1,0 +1,19 @@
+{
+  "key.desafio4.open": "Open Desafío 4",
+  "key.categories.desafio4": "Desafío 4",
+  "screen.desafio4.title": "Desafío 4",
+  "tab.desafio4.quests": "Quests",
+  "tab.desafio4.objects": "Items",
+  "tab.desafio4.dimensions": "Dimensions",
+  "type.desafio4.collect": "Collect",
+  "type.desafio4.kill": "Kill",
+  "type.desafio4.mine": "Mine",
+  "type.desafio4.craft": "Craft",
+  "type.desafio4.dimension": "Visit",
+  "gui.desafio4.reward": "Reward:",
+  "gui.desafio4.visited": "Visited",
+  "gui.desafio4.not_visited": "Not visited",
+  "gui.desafio4.empty": "Nothing configured yet.",
+  "gui.desafio4.needed_for": "Needed for: %s",
+  "gui.desafio4.reward_of": "Reward of: %s"
+}
